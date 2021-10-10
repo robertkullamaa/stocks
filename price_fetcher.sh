@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /home/pi/stonks/stocks
 
 git pull
 
