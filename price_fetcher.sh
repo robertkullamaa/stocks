@@ -3,7 +3,7 @@ cd /home/pi/stonks/stocks
 
 git pull
 
-node priceApi.js
+/home/pi/.nvm/versions/node/v10.24.1/bin/node priceApi.js
 
 git commit -am "new price"
 
