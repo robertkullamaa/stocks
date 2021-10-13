@@ -1,0 +1,1485 @@
+Already up-to-date.
+2021-10-10 9:34:26 BTC-USD - 54,968.73 +323.41 (+0.59%) OPEN
+undefined
+[master ac09af7] new price
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   184bb51..ac09af7  master -> master
+Already up-to-date.
+2021-10-10 9:36:26 BTC-USD - 54,970.25 +288.99 (+0.53%) OPEN
+undefined
+[master c207f93] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   ac09af7..c207f93  master -> master
+Already up-to-date.
+2021-10-10 9:38:26 BTC-USD - 54,906.77 +188.73 (+0.34%) OPEN
+undefined
+[master ccf3196] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   c207f93..ccf3196  master -> master
+Already up-to-date.
+2021-10-10 9:41:10 BTC-USD - 54,922.91 +209.29 (+0.38%) OPEN
+undefined
+[master beb2c3d] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   ccf3196..beb2c3d  master -> master
+Already up-to-date.
+2021-10-10 9:42:28 BTC-USD - 54,927.94 +219.92 (+0.40%) OPEN
+undefined
+[master 087433e] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   beb2c3d..087433e  master -> master
+Already up-to-date.
+2021-10-10 9:44:28 BTC-USD - 54,940.65 +258.11 (+0.47%) OPEN
+undefined
+[master 508161a] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   087433e..508161a  master -> master
+Already up-to-date.
+2021-10-10 9:46:28 BTC-USD - 54,922.90 +208.06 (+0.38%) OPEN
+undefined
+[master d2bfe9d] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   508161a..d2bfe9d  master -> master
+Already up-to-date.
+2021-10-10 9:48:27 BTC-USD - 54,886.03 +159.46 (+0.29%) OPEN
+undefined
+[master 35b4235] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   d2bfe9d..35b4235  master -> master
+Already up-to-date.
+2021-10-10 9:51:19 BTC-USD - 54,973.19 +296.21 (+0.54%) OPEN
+undefined
+[master d7dca62] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   35b4235..d7dca62  master -> master
+Already up-to-date.
+2021-10-10 9:52:27 BTC-USD - 54,986.03 +256.31 (+0.47%) OPEN
+undefined
+[master ec81c42] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   d7dca62..ec81c42  master -> master
+Already up-to-date.
+2021-10-10 9:54:27 BTC-USD - 54,951.92 +115.01 (+0.21%) OPEN
+undefined
+[master 3e744bf] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   ec81c42..3e744bf  master -> master
+Already up-to-date.
+2021-10-10 9:56:27 BTC-USD - 54,931.89 +110.21 (+0.20%) OPEN
+undefined
+[master b0d626c] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   3e744bf..b0d626c  master -> master
+Already up-to-date.
+2021-10-10 9:58:27 BTC-USD - 54,907.77 +10.03 (+0.02%) OPEN
+undefined
+[master 6ec8a1a] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   b0d626c..6ec8a1a  master -> master
+Already up-to-date.
+2021-10-10 10:0:26 BTC-USD - 54,949.88 +53.76 (+0.10%) OPEN
+undefined
+[master 5ba0717] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   6ec8a1a..5ba0717  master -> master
+Already up-to-date.
+2021-10-10 10:2:25 BTC-USD - 54,936.32 -18.73 (-0.03%) OPEN
+undefined
+[master 43715b4] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   5ba0717..43715b4  master -> master
+Already up-to-date.
+2021-10-10 10:4:27 BTC-USD - 54,856.20 -53.63 (-0.10%) OPEN
+undefined
+[master 1f76b1f] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   43715b4..1f76b1f  master -> master
+Already up-to-date.
+2021-10-10 10:6:27 BTC-USD - 54,935.17 +56.38 (+0.10%) OPEN
+undefined
+[master bd27bd6] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   1f76b1f..bd27bd6  master -> master
+Already up-to-date.
+2021-10-10 10:8:25 BTC-USD - 55,012.13 +102.66 (+0.19%) OPEN
+undefined
+[master af05fa4] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   bd27bd6..af05fa4  master -> master
+Already up-to-date.
+2021-10-10 10:10:26 BTC-USD - 55,057.64 +140.39 (+0.26%) OPEN
+undefined
+[master ee40b12] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   af05fa4..ee40b12  master -> master
+Already up-to-date.
+2021-10-10 10:12:26 BTC-USD - 55,070.29 +158.26 (+0.29%) OPEN
+undefined
+[master 1e788ba] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   ee40b12..1e788ba  master -> master
+Already up-to-date.
+2021-10-10 10:14:27 BTC-USD - 55,132.95 +291.57 (+0.53%) OPEN
+undefined
+[master 05ccc61] new price
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To git@github.com:robertkullamaa/stocks.git
+   1e788ba..05ccc61  master -> master
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:5:18 BTC-USD - 55,336.09 +448.76 (+0.82%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:6:27 BTC-USD - 55,327.53 +387.53 (+0.71%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:8:26 BTC-USD - 55,339.68 +407.68 (+0.74%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:10:29 BTC-USD - 55,272.63 +344.92 (+0.63%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:12:44 BTC-USD - 55,228.61 +303.51 (+0.55%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:16:33 BTC-USD - 55,290.93 +390.43 (+0.71%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:18:28 BTC-USD - 55,337.59 +457.81 (+0.83%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:20:26 BTC-USD - 55,232.04 +411.34 (+0.75%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:22:26 BTC-USD - 55,250.48 +409.19 (+0.75%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:24:32 BTC-USD - 55,247.68 +441.54 (+0.81%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:26:56 BTC-USD - 55,270.14 +478.20 (+0.87%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:28:48 BTC-USD - 55,286.67 +482.71 (+0.88%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:30:28 BTC-USD - 55,320.40 +524.75 (+0.96%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:32:27 BTC-USD - 55,388.77 +593.60 (+1.08%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:34:25 BTC-USD - 55,436.28 +673.59 (+1.23%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:36:28 BTC-USD - 55,421.61 +668.29 (+1.22%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:38:47 BTC-USD - 55,458.34 +706.00 (+1.29%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:48:30 BTC-USD - 55,418.67 +629.98 (+1.15%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:50:27 BTC-USD - 55,358.30 +594.15 (+1.08%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 19:52:26 BTC-USD - 55,448.31 +722.75 (+1.32%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 20:23:29 BTC-USD - 55,995.73 +1,528.22 (+2.81%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 20:24:28 BTC-USD - 55,982.52 +1,484.32 (+2.72%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 20:26:26 BTC-USD - 56,008.56 +1,498.89 (+2.75%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 20:28:27 BTC-USD - 56,401.31 +1,939.62 (+3.56%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 20:30:29 BTC-USD - 56,229.42 +1,742.54 (+3.20%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 20:32:26 BTC-USD - 56,344.34 +1,902.86 (+3.50%) OPEN
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 20:34:44 MSFT - 294.85 0.00 (0.00%) CLOSED
+2021-10-10 20:34:52 SAB1L.VS - 0.7420 -0.0020 (-0.27%) CLOSED
+2021-10-10 20:34:59 CPA1T.TL - 3.0000 -0.0200 (-0.66%) CLOSED
+2021-10-10 20:35:8 LHV1T.TL - 40.20 +0.10 (+0.25%) CLOSED
+2021-10-10 20:35:15 IGN1L.VS - 20.25 +0.14 (+0.69%) CLOSED
+undefined
+undefined
+undefined
+undefined
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+2021-10-10 20:36:28 SAB1L.VS - 0.7420 -0.0020 (-0.27%) CLOSED
+2021-10-10 20:36:37 MSFT - 294.85 0.00 (0.00%) CLOSED
+2021-10-10 20:36:49 IGN1L.VS - 20.25 +0.14 (+0.69%) CLOSED
+2021-10-10 20:36:57 LHV1T.TL - 40.20 +0.10 (+0.25%) CLOSED
+2021-10-10 20:37:7 CPA1T.TL - 3.0000 -0.0200 (-0.66%) CLOSED
+undefined
+undefined
+undefined
+undefined
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+
+
+
+
+
+undefined
+undefined
+undefined
+undefined
+undefined
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+error: object file .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134 is empty
+fatal: loose object 05ccc617bd0779003c63b20069cc6fe258e78134 (stored in .git/objects/05/ccc617bd0779003c63b20069cc6fe258e78134) is corrupt
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
