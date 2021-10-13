@@ -27,10 +27,14 @@ def PrintScreen(data):
 
 
 def GetCurrencyList():
-    file1 = open('./latest_price.txt', 'r')
-    Lines = file1.readlines()
-
-    return Lines
+    while True:
+        try:
+            file1 = open('./latest_price.txt', 'r')
+            Lines = file1.readlines()
+            return Lines
+        except:
+            print("An exception occurred")
+    
 
 try:
     while True:
@@ -47,5 +51,7 @@ try:
 
 except KeyboardInterrupt:
     print("Cleaning up!")
+    display.lcd_clear()
+except:
     display.lcd_clear()
     display.lcd_display_string("ERROR", 1)
