@@ -48,3 +48,4 @@ try:
 except KeyboardInterrupt:
     print("Cleaning up!")
     display.lcd_clear()
+    display.lcd_display_string("ERROR", 1)
