@@ -7,9 +7,7 @@ import requests
 import datetime
 
 display = drivers.Lcd()
-sleepSecond = 3
-minute = 60
-iteration = minute/sleepSecond
+sleepSecond = 4
 
 
 def PrintTime(data):
@@ -31,19 +29,22 @@ def GetCurrencyList():
         try:
             file1 = open('./latest_price.txt', 'r')
             Lines = file1.readlines()
+            print("readlines")
             return Lines
         except:
             print("An exception occurred")
+            time.sleep(1)
     
 
 try:
     while True:
         currencyList = GetCurrencyList()
         if currencyList:
-            for i in range(int(iteration/len(currencyList))):
-                for item in currencyList:
-                    PrintScreen(item.split())
-                    time.sleep(sleepSecond)
+            for item in currencyList:
+                print(item)
+                PrintScreen(item.split())
+                time.sleep(sleepSecond)
+            
         else:
             display.lcd_clear()
             PrintTime()
