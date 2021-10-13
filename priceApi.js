@@ -23,7 +23,7 @@ Promise.all(promises).then(values => {
     res += stocks[index] + ' ' + price + ' ' + change + ' ' + (open ? 'OPEN' : 'CLOSED') + '\n';
   });
 
-  fs.writeFile('latest_price.txt' , res, function (err,data) {
+  fs.writeFile('prices.txt' , res, function (err,data) {
     if (err) {
       return console.log(err);
     }
