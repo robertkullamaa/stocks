@@ -27,7 +27,7 @@ def PrintScreen(data):
 def GetCurrencyList():
     while True:
         try:
-            file1 = open('./prices.txt', 'r')
+            file1 = open('/home/pi/stonks/stocks/prices.txt', 'r')
             Lines = file1.readlines()
             print("readlines")
             return Lines
