@@ -2,7 +2,7 @@ const rp = require('request-promise');
 const fs = require('fs')
 const cheerio = require('cheerio');
 
-const stocks = ['IGN1L.VS', 'SAB1L.VS', 'LHV1T.TL', 'CPA1T.TL', 'MSFT'];
+const stocks = ['IGN1L.VS', 'SAB1L.VS', 'AAPL', 'MSFT'];
 //const stocks = ['BTC-USD'];
 
 let url = 'https://finance.yahoo.com/quote/';
