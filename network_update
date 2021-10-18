@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /home/pi/stonks/stocks
+
+rm -f /etc/wpa_supplicant/wpa_supplicant.conf
+
+cp wpa_supplicant.conf /etc/wpa_supplicant/
