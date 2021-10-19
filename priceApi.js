@@ -27,7 +27,7 @@ Promise.all(promises).then(values => {
     const price = $('#quote-market-notice').parent().children()[0].children[0].data;
     const change = $('#quote-market-notice').parent().children()[1].children[0].data;
 
-    res += stockNames[stocks[index]] + ' ' + price + ' ' + change + ' ' + (open ? 'OPEN' : 'CLOSED') + '\n';
+    res += stockNames[stocks[index]] + ' ' + price + ' ' + change + ' ' + (open ? 'OPN' : 'CLS') + '\n';
   });
 
   fs.writeFile('prices.txt' , res, function (err,data) {
