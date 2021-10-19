@@ -3,6 +3,13 @@ const fs = require('fs')
 const cheerio = require('cheerio');
 
 const stocks = ['IGN1L.VS', 'SAB1L.VS', 'AAPL', 'MSFT', 'LHV1T.TL'];
+const stockNames = {
+  'IGN1L.VS': 'IGN', 
+  'SAB1L.VS': 'SAB', 
+  'AAPL': 'AAPL', 
+  'MSFT': 'MSFT', 
+  'LHV1T.TL': 'LHV'
+}
 //const stocks = ['BTC-USD'];
 
 let url = 'https://finance.yahoo.com/quote/';
@@ -20,7 +27,7 @@ Promise.all(promises).then(values => {
     const price = $('#quote-market-notice').parent().children()[0].children[0].data;
     const change = $('#quote-market-notice').parent().children()[1].children[0].data;
 
-    res += stocks[index] + ' ' + price + ' ' + change + ' ' + (open ? 'OPEN' : 'CLOSED') + '\n';
+    res += stockNames[stocks[index]] + ' ' + price + ' ' + change + ' ' + (open ? 'OPEN' : 'CLOSED') + '\n';
   });
 
   fs.writeFile('prices.txt' , res, function (err,data) {
