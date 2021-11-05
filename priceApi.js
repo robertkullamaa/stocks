@@ -2,13 +2,14 @@ const rp = require('request-promise');
 const fs = require('fs')
 const cheerio = require('cheerio');
 
-const stocks = ['IGN1L.VS', 'SAB1L.VS', 'AAPL', 'MSFT', 'LHV1T.TL'];
+const stocks = ['IGN1L.VS', 'SAB1L.VS', 'AAPL', 'MSFT', 'LHV1T.TL', 'EGR1T.TL'];
 const stockNames = {
   'IGN1L.VS': 'IGN', 
   'SAB1L.VS': 'SAB', 
   'AAPL': 'AAPL', 
   'MSFT': 'MSFT', 
-  'LHV1T.TL': 'LHV'
+  'LHV1T.TL': 'LHV',
+  'EGR1T.TL': 'EGR'
 }
 //const stocks = ['BTC-USD'];
 
