@@ -27,7 +27,9 @@ Promise.all(promises).then(values => {
 
     const open = $('#quote-market-notice').children()[0].children[0].data.indexOf('Market open.') > -1;
     const price = $('#quote-market-notice').parent().children()[0].children[0].data;
-    const change = $('#quote-market-notice').parent().children()[1].children[0].data;
+
+    //console.log($('#quote-market-notice').parent().children()[1].children[0].children[0].data);
+    const change = $('#quote-market-notice').parent().children()[2].children[0].children[0].data;
 
     res += stockNames[stocks[index]] + ' ' + price + ' ' + change + ' ' + (open ? 'OPN' : 'CLS') + '\n';
   });
