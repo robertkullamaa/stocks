@@ -11,7 +11,7 @@ sleepSecond = 4
 
 
 def PrintTime(data):
-    display.lcd_display_string(data[0] + " " + data[1] + " " + data[4], 1)
+    display.lcd_display_string(data[0] + " " + data[1] + " " + data[3], 1)
 
 
 def PrintCurrency(data):
