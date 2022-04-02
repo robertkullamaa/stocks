@@ -8,7 +8,6 @@ const stockNames = {
   'SAB1L.VS': 'SAB', 
   'AAPL': 'AAPL', 
   'MSFT': 'MSFT', 
-  'LHV1T.TL': 'LHV',
   'EGR1T.TL': 'EGR',
   'LCID': 'LCID'
 }
